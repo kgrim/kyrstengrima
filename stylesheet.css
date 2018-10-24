@@ -249,4 +249,13 @@ nav a {
         height: 6%;
         width: 6%;
     }
+    #greenLine2 {
+        background-color: rgb(159, 215, 37, 0.5);
+        width: 1%;
+        height: 100vh;
+        position: absolute;
+        z-index: 10;
+        left: 24.5%;
+        margin-top: -5%;
+    }
 }
