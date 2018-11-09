@@ -213,6 +213,8 @@ nav a:hover, a:hover {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    justify-content: center;
+    align-content: center;
 }
 
 
